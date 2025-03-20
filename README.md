@@ -1,0 +1,2 @@
+## AI Search Algorithms and Game Theory Implementations
+This repository contains C++ implementations of various AI search algorithms and game theory techniques. It includes solutions for problems like the 8-puzzle using BFS and DFS, greedy search, A* search, minimax algorithm, alpha-beta pruning, and the water jug problem. These implementations are useful for understanding fundamental AI and search strategies.
